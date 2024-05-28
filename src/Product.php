@@ -9,3 +9,4 @@ abstract class Product
 
     abstract public function getSurface(): float;
 }
+
